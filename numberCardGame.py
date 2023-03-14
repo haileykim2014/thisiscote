@@ -8,5 +8,5 @@ for i in range(n):
     # 가장 작은 수 들 중에서 가장 큰 수 찾기
     min_value = min(data)
     result = max(result,min_value)
-
+# 정답 출력
 print(result)
